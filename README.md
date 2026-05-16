@@ -12,6 +12,7 @@ End the program.
 
 # PROGRAM:
 
+```
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -42,7 +43,7 @@ int main()
 }
 
 
-
+```
 
 # OUTPUT:
 
